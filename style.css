@@ -1,0 +1,55 @@
+p{
+    color: aqua;
+}
+body {
+    background-image: url(https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+h2{
+    color: white;
+}
+.lista{
+    color: blanchedalmond;
+    font-style: Arial;
+} 
+
+p,
+section {
+   font-size: 20px;
+   font-family: verdana ;
+}
+.crawling{
+    width: 700px;
+    border-width: 5px;
+    border-color: blue;
+    border-style: solid;
+}
+/*border-style: none;*/
+.paramore{
+    width: 700px;
+    border-radius: 10px;
+    border-radius: 5%;
+}
+/*div {
+   background-color: blue;
+}*/
+.megadeth{
+    width: 700px;
+}
+.gojira{
+    width: 500px;
+}
+#titulo{
+    font-size: 30px;
+    color: rgb(43, 172, 211);
+    font-family: 'Times New Roman', Times, serif;
+ }
+ img[alt]{
+    border-radius:15%;
+ }
+
+ [alt]{
+    margin:50px;
+ }
